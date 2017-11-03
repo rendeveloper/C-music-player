@@ -1,7 +1,11 @@
 # C-music-player
 # C Sharp Music Player App UI Design &amp; Function
 
+Kindly Download at Mediafire
+Here's the link, 
+https://www.mediafire.com/folder/5w6y1x46i2239/My_Work_Program
 
+the reason is my file cant upload here at GitHub because of 100 MB Push limit my file is more than 100MB
 
 # INSTALLATION
 1. if have pop up error just ignore 4x.
