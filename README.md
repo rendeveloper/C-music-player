@@ -1,5 +1,5 @@
 # C-music-player
-# Music Player App UI Design &amp; Function
+# C Sharp Music Player App UI Design &amp; Function
 
 
 
